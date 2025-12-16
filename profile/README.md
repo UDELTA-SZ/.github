@@ -2,8 +2,6 @@
 
 <div align="center">
 
-[![Funding](https://img.shields.io/badge/Funding-5M_RMB-blue.svg)](https://www.sz.gov.cn/)
-[![Established](https://img.shields.io/badge/Established-2023-green.svg)](https://www.sigs.tsinghua.edu.cn/)
 [![Institution](https://img.shields.io/badge/Institution-Tsinghua_SIGS-purple.svg)](https://www.sigs.tsinghua.edu.cn/)
 
 **深圳市泛在数据赋能重点实验室**
