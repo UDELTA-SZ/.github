@@ -23,7 +23,7 @@ The **Shenzhen Key Laboratory of Ubiquitous Data EnabLing** (深圳市泛在数�
 
 ## 🔍 Research Focus
 
-Our laboratory is at the forefront of data-driven research, focusing on:
+Our laboratory is at the forefront of data enabling theory and applications, including:
 
 ### 🤖 **Big Data & AI**
 - Physially informed Intelligence
