@@ -1,5 +1,4 @@
-# 🔬 Shenzhen Key Laboratory of Ubiquitous Data EnabLing 
-#     -- Theory and Applications
+# 🔬 Shenzhen Key Laboratory of Ubiquitous Data EnabLing
 
 <div align="center">
 
@@ -7,7 +6,7 @@
 
 **深圳市泛在数据赋能重点实验室**
 
-*Shenzhen Key Laboratory of Ubiquitous Data EnabLing -- Theory and Applications*
+*Theory and Applications*
 
 </div>
 
